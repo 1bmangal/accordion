@@ -1,0 +1,18 @@
+.autores{
+  margin: 5rem 4rem;
+  justify-content: center;
+}
+
+.autores h1{
+  display: flex;
+  justify-content: center;
+}
+
+.carrossel{
+  border: 1px solid black;
+  border-radius: 20px;  
+  width: 60rem;
+  height: 26rem;
+  display: flex;
+  justify-content: center;
+}
